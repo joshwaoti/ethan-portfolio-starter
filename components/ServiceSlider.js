@@ -1,3 +1,13 @@
+// icons
+import {
+  RxCrop,
+  RxPencil2,
+  RxDesktop,
+  RxReader,
+  RxRocket,
+} from "react-icons/rx";
+
+
 // data
 const serviceData = [
   {
