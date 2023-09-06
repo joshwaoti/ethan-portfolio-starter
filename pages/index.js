@@ -22,14 +22,15 @@ const Home = () => {
       <div className="text-center flex flex-col justify-center xl:pt-40 xl:text-left h-full container mx-auto">
         {/* title */}
         <motion.h1 variants={fadeIn('down', 0.2)} initial='hidden' animate='show' exit='hidden' className="h1">
-        Transforming ideas <br />Into{' '} 
-        <span className="text-accent">Digital Reality</span>
+        Building the <br />Future{' '} 
+        <span className="text-accent">One line of code at a time</span>
         </motion.h1>
         {/* subtitle */}
         <motion.p variants={fadeIn('down', 0.3)} initial='hidden' animate='show' exit='hidden' className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, dolor. 
-          Reiciendis minima in quos amet ea earum doloremque debitis molestiae totam. 
-          At tempore obcaecati commodi?
+        I am a software engineer who is passionate about creating innovative solutions that make a difference. 
+        I believe that software is the key to building a better future, and I am committed to using my skills to make that happen. 
+        I am always learning new things and pushing the boundaries of what is possible. 
+        I am excited to see what the future holds, and I am confident that I can play a role in shaping it.
         </motion.p>
         {/* btn */}
         <div className="flex justify-center xl:hidden relative">
